@@ -26,12 +26,16 @@
 
   <h2 align="center">🛠️ Tech Stack</h2>
 
-  <p align="center">
-    <img
-      src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,python,java,tailwind,mongodb,mysql,postgres,redis,firebase,docker,git,github,figma,vercel,aws,gcp&perline=18&size=10"
-      alt="Tech Stack"
-    />
-  </p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kernel%20Driver-FF6B6B?style=for-the-badge&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Client%20App-4ECDC4?style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cheat%20Engine-1A1A2E?style=for-the-badge&logo=gamepad&logoColor=white" />
+  <img src="https://img.shields.io/badge/IDA%20Pro-16213E?style=for-the-badge&logo=binary&logoColor=white" />
+  <img src="https://img.shields.io/badge/API%20System-E94560?style=for-the-badge&logo=fastapi&logoColor=white" />
+</p>
 
   <table align="center" width="100%">
     <tr>
